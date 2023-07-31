@@ -1,29 +1,29 @@
-# al-folio
+# homepage
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
-[![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
-[![GitHub contributors](https://img.shields.io/github/contributors/alshedivat/al-folio.svg)](https://github.com/alshedivat/al-folio/graphs/contributors/)
+[![deploy](https://github.com/Zebiao1998/homepage/actions/workflows/deploy.yml/badge.svg)](https://github.com/Zebiao1998/homepage/actions/workflows/deploy.yml)
+[![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://Zebiao1998.github.io/homepage/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Zebiao1998/homepage.svg)](https://github.com/Zebiao1998/homepage/graphs/contributors/)
 [![Maintainers][maintainers]](#maintainers)
-[![GitHub release](https://img.shields.io/github/v/release/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/alshedivat/al-folio)](https://github.com/alshedivat/al-folio)
-[![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
+[![GitHub release](https://img.shields.io/github/v/release/Zebiao1998/homepage)](https://github.com/Zebiao1998/homepage/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/Zebiao1998/homepage?color=blue)](https://github.com/Zebiao1998/homepage/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Zebiao1998/homepage)](https://github.com/Zebiao1998/homepage)
+[![GitHub forks](https://img.shields.io/github/forks/Zebiao1998/homepage)](https://github.com/Zebiao1998/homepage/fork)
 
-[![Docker Image Version](https://img.shields.io/docker/v/amirpourmand/al-folio?sort=semver&label=docker%20image&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
-[![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
+[![Docker Image Version](https://img.shields.io/docker/v/amirpourmand/homepage?sort=semver&label=docker%20image&color=blueviolet)](https://hub.docker.com/r/amirpourmand/homepage)
+[![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/homepage?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/homepage)
+[![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/homepage?color=blueviolet)](https://hub.docker.com/r/amirpourmand/homepage)
 
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
-[![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+[![Preview](https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/homepage-preview.png)](https://Zebiao1998.github.io/homepage/)
 
 ## User community
 
-The vibrant community of **al-folio** users is growing!
+The vibrant community of **homepage** users is growing!
 Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
 Check out the community webpages below.
 Feel free to add your own page(s) by sending a PR.
@@ -32,7 +32,7 @@ Feel free to add your own page(s) by sending a PR.
 <tr>
 <td>Academics</td>
 <td>
-<a href="https://maruan.alshedivat.com" target="_blank">★</a>
+<a href="https://maruan.Zebiao1998.com" target="_blank">★</a>
 <a href="https://www.cs.columbia.edu/~chen1ru/" target="_blank">★</a>
 <a href="https://maithraraghu.com" target="_blank">★</a>
 <a href="https://platanios.org" target="_blank">★</a>
@@ -150,7 +150,7 @@ Medical Robotics Junior Faculty Forum (ISMR: <a href="https://junior-forum-ismr.
 
 ## Lighthouse PageSpeed Insights
 
-[![Google PageSpeed](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/pagespeed.svg)](https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=desktop)
+[![Google PageSpeed](https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/pagespeed.svg)](https://pagespeed.web.dev/report?url=https%3A%2F%2FZebiao1998.github.io%2Fhomepage%2F&form_factor=desktop)
 
 ## Table Of Contents
 
@@ -187,7 +187,7 @@ Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/0
 
 ### Installation
 
-For a hands-on walkthrough of al-folio installation, check out [this cool video tutorial](https://www.youtube.com/watch?v=g6AJ9qPPoyc) by one of the community members! 🎬 🍿
+For a hands-on walkthrough of homepage installation, check out [this cool video tutorial](https://www.youtube.com/watch?v=g6AJ9qPPoyc) by one of the community members! 🎬 🍿
 
 The preferred way of using this template is by clicking in [Use this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template) above the file list.
 Then, create a new repository at `github.com:<your-username>/<your-repo-name>`. If you plan to upload your site to `<your-github-username>.github.io`,
@@ -203,7 +203,7 @@ $ cd <your-repo-name>
 
 #### Local setup using Docker (Recommended on Windows)
 
-You need to take the following steps to get `al-folio` up and running in your local machine:
+You need to take the following steps to get `homepage` up and running in your local machine:
 
 - First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
 - Finally, run the following command that will pull a pre-built image from DockerHub and will run your website.
@@ -220,7 +220,7 @@ Now, feel free to customize the theme however you like (don't forget to change t
 
 <details><summary>(click to expand) <strong>Build your own docker image:</strong></summary>
 
-> Note: this approach is only necessary if you would like to build an older or very custom version of al-folio.
+> Note: this approach is only necessary if you would like to build an older or very custom version of homepage.
 
 Build and run a new docker image using:
 
@@ -251,7 +251,7 @@ After you are done, **commit** your final changes.
 #### Deployment
 
 Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.
-Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0.3.5), **al-folio** will automatically re-deploy your webpage each time you push new changes to your repository! :sparkles:
+Starting version [v0.3.5](https://github.com/Zebiao1998/homepage/releases/tag/v0.3.5), **homepage** will automatically re-deploy your webpage each time you push new changes to your repository! :sparkles:
 
 **For personal and organization webpages:**
 
@@ -308,7 +308,7 @@ For a user site this could well be something like `$HOME/<user>.github.io`.
 
 Firstly, from the deployment repo dir, checkout the git branch hosting your publishing source.
 
-Then from the website sources dir (commonly your al-folio fork's clone):
+Then from the website sources dir (commonly your homepage fork's clone):
 
 ```bash
 $ bundle exec jekyll build --lsi --destination $HOME/repo/publishing-source
@@ -327,7 +327,7 @@ The quote below is taken directly from the [jekyll configuration docs](https://j
 > Do not use an important location for `<destination>`; instead, use it as a staging area and copy files from there to your web server.
 
 If `$HOME/repo/publishing-source` contains files that you want jekyll to leave untouched, specify them under `keep_files` in `_config.yml`.
-In its default configuration, al-folio will copy the top-level `README.md` to the publishing source. If you want to change this behavior, add `README.md` under `exclude` in `_config.yml`.
+In its default configuration, homepage will copy the top-level `README.md` to the publishing source. If you want to change this behavior, add `README.md` under `exclude` in `_config.yml`.
 
 **Note:** Do _not_ run `jekyll clean` on your publishing source repo as this will result in the entire directory getting deleted, irrespective of the content of `keep_files` in `_config.yml`.
 
@@ -337,7 +337,7 @@ In its default configuration, al-folio will copy the top-level `README.md` to th
 
 #### Upgrading from a previous version
 
-If you installed **al-folio** as described above, you can configure a [GitHub action](https://github.com/AndreasAugustin/actions-template-sync) to automatically sync your repository with the latest version of the theme.
+If you installed **homepage** as described above, you can configure a [GitHub action](https://github.com/AndreasAugustin/actions-template-sync) to automatically sync your repository with the latest version of the theme.
 
 Go to Settings -> Actions -> General -> Workflow permissions, give Read and write permissions to GitHub Actions, check "Allow GitHub Actions to create and approve pull requests", and save your changes.
 
@@ -362,7 +362,7 @@ jobs:
         uses: AndreasAugustin/actions-template-sync@v0.7.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          source_repo_path: alshedivat/al-folio
+          source_repo_path: Zebiao1998/homepage
           upstream_branch: master
 ```
 
@@ -372,7 +372,7 @@ Another option is to manually update your code by following the steps below:
 
 ```bash
 # Assuming the current directory is <your-repo-name>
-$ git remote add upstream https://github.com/alshedivat/al-folio.git
+$ git remote add upstream https://github.com/Zebiao1998/homepage.git
 $ git fetch upstream
 $ git rebase v0.9.0
 ```
@@ -387,28 +387,28 @@ If rebasing is too complicated, we recommend re-installing the new version of th
 ### FAQ
 
 Here are some frequently asked questions.
-If you have a different question, please ask using [Discussions](https://github.com/alshedivat/al-folio/discussions/categories/q-a).
+If you have a different question, please ask using [Discussions](https://github.com/Zebiao1998/homepage/discussions/categories/q-a).
 
 1. **Q:** After I create a new repository from this template and setup the repo, I get a deployment error.
    Isn't the website supposed to correctly deploy automatically? <br>
    **A:** Yes, if you are using release `v0.3.5` or later, the website will automatically and correctly re-deploy right after your first commit.
    Please make some changes (e.g., change your website info in `_config.yml`), commit, and push.
-   Make sure to follow [deployment instructions](https://github.com/alshedivat/al-folio#deployment) in the previous section.
-   (Relevant issue: [209](https://github.com/alshedivat/al-folio/issues/209#issuecomment-798849211).)
+   Make sure to follow [deployment instructions](https://github.com/Zebiao1998/homepage#deployment) in the previous section.
+   (Relevant issue: [209](https://github.com/Zebiao1998/homepage/issues/209#issuecomment-798849211).)
 
 2. **Q:** I am using a custom domain (e.g., `foo.com`).
    My custom domain becomes blank in the repository settings after each deployment.
    How do I fix that? <br>
    **A:** You need to add `CNAME` file to the `master` or `source` branch of your repository.
    The file should contain your custom domain name.
-   (Relevant issue: [130](https://github.com/alshedivat/al-folio/issues/130).)
+   (Relevant issue: [130](https://github.com/Zebiao1998/homepage/issues/130).)
 
 3. **Q:** My webpage works locally.
     But after deploying, it fails to build and throws `Unknown tag 'toc'`.
     How do I fix that? <br>
    **A:** Make sure you followed through the [deployment instructions](#deployment) in the previous section.
    You should have set the deployment branch to `gh-pages`.
-   (Related issue: [1438](https://github.com/alshedivat/al-folio/issues/1438).)
+   (Related issue: [1438](https://github.com/Zebiao1998/homepage/issues/1438).)
 
 4. **Q:** My webpage works locally.
     But after deploying, it is not displayed correctly (CSS and JS is not loaded properly).
@@ -418,7 +418,7 @@ If you have a different question, please ask using [Discussions](https://github.
    If you are deploying a personal or organization website, leave `baseurl` blank.
    If you are deploying a project page, set `baseurl: /<your-project-name>/`.
    If all previous steps were done correctly, all is missing is
-   [for your browser to fetch again the site stylesheet](https://github.com/alshedivat/al-folio/issues/1398#issuecomment-1609518404).
+   [for your browser to fetch again the site stylesheet](https://github.com/Zebiao1998/homepage/issues/1398#issuecomment-1609518404).
    
 5. **Q:** Atom feed doesn't work. Why?
    <br>
@@ -443,7 +443,7 @@ Your publications' page is generated automatically from your BibTex bibliography
 Simply edit `_bibliography/papers.bib`.
 You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
 
-<p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/publications-screenshot.png" width=800></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/publications-screenshot.png" width=800></p>
 
 <details><summary>(click to expand) <strong>Author annotation:</strong></summary>
 
@@ -516,7 +516,7 @@ The theme comes with two default collections: `news` and `projects`.
 Items from the `news` collection are automatically displayed on the home page.
 Items from the `projects` collection are displayed on a responsive grid on projects page.
 
-<p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/projects-screenshot.png" width=700></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/projects-screenshot.png" width=700></p>
 
 You can easily create your own collections, apps, short stories, courses, or whatever your creative work is.
 To do this, edit the collections in the `_config.yml` file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
@@ -525,23 +525,23 @@ To do this, edit the collections in the `_config.yml` file, create a correspondi
 
 ### Layouts
 
-**al-folio** comes with stylish layouts for pages and blog posts.
+**homepage** comes with stylish layouts for pages and blog posts.
 
 #### The iconic style of Distill
 
 The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
 
-<p align="center"><a href="https://alshedivat.github.io/al-folio/blog/2021/distill/" target="_blank"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/distill-screenshot.png" width=700></a></p>
+<p align="center"><a href="https://Zebiao1998.github.io/homepage/blog/2021/distill/" target="_blank"><img src="https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/distill-screenshot.png" width=700></a></p>
 
-For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2021/distill/).
+For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://Zebiao1998.github.io/homepage/blog/2021/distill/).
 
 #### Full support for math & code
 
-**al-folio** supports fast math typesetting through [MathJax](https://www.mathjax.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes):
+**homepage** supports fast math typesetting through [MathJax](https://www.mathjax.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes):
 
 <p align="center">
-<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/math-screenshot.png" width=400></a>
-<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/code-screenshot.png" width=400></a>
+<a href="https://Zebiao1998.github.io/homepage/blog/2015/math/" target="_blank"><img src="https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/math-screenshot.png" width=400></a>
+<a href="https://Zebiao1998.github.io/homepage/blog/2015/code/" target="_blank"><img src="https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/code-screenshot.png" width=400></a>
 </p>
 
 #### Photos
@@ -550,8 +550,8 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
 Easily create beautiful grids within your blog posts and project pages:
 
 <p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/photos-screenshot.png" width="75%">
+  <a href="https://Zebiao1998.github.io/homepage/projects/1_project/">
+    <img src="https://raw.githubusercontent.com/Zebiao1998/homepage/master/assets/img/photos-screenshot.png" width="75%">
   </a>
 </p>
 
@@ -561,7 +561,7 @@ Easily create beautiful grids within your blog posts and project pages:
 
 #### GitHub's repositories and user stats
 
-**al-folio** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+**homepage** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 to display GitHub repositories and user stats on the `/repositories/` page.
 
 Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories to the `/repositories/` page.
@@ -612,7 +612,7 @@ use across the template.
 
 #### Social media previews
 
-**al-folio** supports preview images on social media.
+**homepage** supports preview images on social media.
 To enable this functionality you will need to set `serve_og_meta` to `true` in your `_config.yml`.
 Once you have done so, all your site's pages will include Open Graph data in the HTML head element.
 
@@ -636,7 +636,7 @@ If you want to disable it for all posts, simply set `enabled` to false in the `r
 
 ## Contributing
 
-Contributions to al-folio are very welcome!
+Contributions to homepage are very welcome!
 Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
 If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
@@ -653,7 +653,7 @@ If you are interested, please reach out!
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://maruan.alshedivat.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://maruan.Zebiao1998.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://rohandebsarkar.github.io"><img src="https://avatars.githubusercontent.com/u/50144004?v=4" width="100px;" alt=""/><br /><sub><b>Rohan Deb Sarkar</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://amirpourmand.ir"><img src="https://avatars.githubusercontent.com/u/32064808?v=4" width="100px;" alt=""/><br /><sub><b>Amir Pourmand</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://george-gca.github.io/"><img src="https://avatars.githubusercontent.com/u/31376482?v=4" width="100px;" alt=""/><br /><sub><b>George</b></sub></a></td>
@@ -668,7 +668,7 @@ If you are interested, please reach out!
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
+The theme is available as open source under the terms of the [MIT License](https://github.com/Zebiao1998/homepage/blob/master/LICENSE).
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
+Originally, **homepage** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.

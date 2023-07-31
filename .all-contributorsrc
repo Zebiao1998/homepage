@@ -5,8 +5,8 @@
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
-  "projectName": "al-folio",
-  "projectOwner": "alshedivat",
+  "projectName": "homepage",
+  "projectOwner": "Zebiao1998",
   "repoType": "github",
   "repoHost": "https://github.com",
   "badgeTemplate": "[core_contributors]: https://img.shields.io/badge/core_contributors-<%= contributors.length %>-orange.svg 'Number of core contributors'",
@@ -14,10 +14,10 @@
   "skipCi": true,
   "contributors": [
     {
-      "login": "alshedivat",
+      "login": "Zebiao1998",
       "name": "Maruan",
       "avatar_url": "https://avatars.githubusercontent.com/u/2126561?v=4",
-      "profile": "http://maruan.alshedivat.com",
+      "profile": "http://maruan.Zebiao1998.com",
       "contributions": [
         "design",
         "code"
